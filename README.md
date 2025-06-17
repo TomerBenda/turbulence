@@ -37,6 +37,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 # TODO
 [made using MapLibre](https://github.com/maplibre/maplibre-gl-js)
+
 [filter markers (threat types)](https://maplibre.org/maplibre-gl-js/docs/examples/filter-markers/)
+
 [add animated markers](https://maplibre.org/maplibre-gl-js/docs/examples/add-image-animated/)
+
 [openicgc](https://openicgc.github.io/)
